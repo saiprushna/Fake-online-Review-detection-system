@@ -6,4 +6,3 @@ spacy
 matplotlib
 seaborn
 textblob
-```
